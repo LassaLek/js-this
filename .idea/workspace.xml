@@ -30,10 +30,12 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\petrh\IdeaProjects\presentation" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\petrh\IdeaProjects\THIS" />
     </key>
@@ -50,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Solution_4a.js">
+  <component name="RunManager" selected="Node.js.Solution_4.js">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -66,16 +68,13 @@
     <configuration name="Definition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Definition.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Problem_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problem_4.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="Solution_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Solution_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_4.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Solution_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_3.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Solution_4a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_4a.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Solution_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_4.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution.js" working-dir="$PROJECT_DIR$">
@@ -92,8 +91,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Solution_4a.js" />
         <item itemvalue="Node.js.Solution_4.js" />
+        <item itemvalue="Node.js.Solution_3.js" />
         <item itemvalue="Node.js.Solution_2.js" />
         <item itemvalue="Node.js.Solution.js" />
         <item itemvalue="Node.js.Definition.js" />
@@ -113,7 +112,7 @@
       <workItem from="1571928756995" duration="532000" />
       <workItem from="1571929298103" duration="6360000" />
       <workItem from="1571949538383" duration="507000" />
-      <workItem from="1571979965937" duration="3719000" />
+      <workItem from="1571979965937" duration="8470000" />
     </task>
     <servers />
   </component>

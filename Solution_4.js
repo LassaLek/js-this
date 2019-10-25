@@ -21,6 +21,7 @@ library.libraryMethod(function () {
 });
 
 
-setTimeout(function () {
+setInterval(function () {
   person.sayHello()
+    ...
 }, 100);
