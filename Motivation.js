@@ -5,20 +5,17 @@ function identify() {
 }
 
 function speak() {
-  var greeting = "Hello, I'm " + identify.call( this );
+  const greeting = "Hello, I'm " + identify.call( this );
   console.log( greeting );
 }
 
-var me = {
+const me = {
   name: "Kyle"
 };
 
-var you = {
+const you = {
   name: "Reader"
 };
-
-identify.call( me ); // KYLE
-identify.call( you ); // READER
 
 speak.call( me ); // Hello, I'm KYLE
 speak.call( you ); // Hello, I'm READER

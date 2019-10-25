@@ -11,6 +11,7 @@ let library = {
   libraryMethod: function (c) {
     console.log('Doing library stuff');
     // callback
+    /*The apply() method calls a function with a given this value, and arguments provided as an array (or an array-like object).*/
     c.apply(person, ['Ales']);
   }
 };

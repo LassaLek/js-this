@@ -19,6 +19,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Seg5tSrgNZjojz64svZacAsQU9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -49,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Solution_5a.js">
+  <component name="RunManager" selected="Node.js.Solution_4a.js">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -62,19 +63,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problem_2.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="Problem_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problem_3.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Definition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Definition.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="Problem_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problem_4.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Problem.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Problem.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Solution_2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_2.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="Solution_5a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_5a.js" working-dir="$PROJECT_DIR$">
+    <configuration name="Solution_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_4.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution_4a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution_4a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration default="true" type="TestNG">
@@ -88,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Solution_5a.js" />
-        <item itemvalue="Node.js.Problem_4.js" />
-        <item itemvalue="Node.js.Problem_2.js" />
-        <item itemvalue="Node.js.Problem.js" />
-        <item itemvalue="Node.js.Problem_3.js" />
+        <item itemvalue="Node.js.Solution_4a.js" />
+        <item itemvalue="Node.js.Solution_4.js" />
+        <item itemvalue="Node.js.Solution_2.js" />
+        <item itemvalue="Node.js.Solution.js" />
+        <item itemvalue="Node.js.Definition.js" />
       </list>
     </recent_temporary>
   </component>
@@ -108,10 +112,25 @@
       <updated>1571928754506</updated>
       <workItem from="1571928756995" duration="532000" />
       <workItem from="1571929298103" duration="6360000" />
+      <workItem from="1571949538383" duration="507000" />
+      <workItem from="1571979965937" duration="3719000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

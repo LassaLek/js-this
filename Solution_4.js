@@ -11,8 +11,16 @@ let library = {
   libraryMethod: function (c) {
     console.log('Doing library stuff');
     // callback
-    c.call(person, 'Ales');
+    c();
   }
 };
 
-library.libraryMethod(person.sayHello);
+// Pozor !
+library.libraryMethod(function () {
+  person.sayHello()
+});
+
+
+setTimeout(function () {
+  person.sayHello()
+}, 100);

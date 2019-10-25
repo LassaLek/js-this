@@ -6,14 +6,14 @@ let person = {
   }
 };
 
-
 // Some library - GoJS, jQuery
 let library = {
   libraryMethod: function (c) {
     console.log('Doing library stuff');
     // callback
-    c();
+    /*The call() method calls a function with a given this value and arguments provided individually.*/
+    c.call(person, 'Ales');
   }
 };
-const preparedCallback = person.sayHello.bind(person);
-library.libraryMethod(preparedCallback);
+
+library.libraryMethod(person.sayHello);

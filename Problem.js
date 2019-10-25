@@ -1,14 +1,14 @@
 let person = {
   name: 'John',
   job: 'programmer',
-  sayHello: function (name = 'Petr') {
-    console.log(`Hello ${name}, my name is ${this.name}`);
+  sayHello: function () {
+    console.log(`Hello CEOS, my name is ${this.name}`);
   }
 };
 
-person.sayHello('Petr');
+person.sayHello();
 
-// Some library - GoJS, jQuery
+// #####
 let sayHello = person.sayHello;
 
-sayHello('Petr');
+sayHello();

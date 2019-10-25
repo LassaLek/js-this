@@ -1,24 +1,25 @@
 let person = {
   name: 'John',
   job: 'programmer',
-  sayHello: function (name = 'Petr') {
-    console.log(`Hello ${name}, my name is ${this.name}`);
+  sayHello: function () {
+    console.log(`Hello CEOS, my name is ${this.name}`);
   }
 };
 
-person.sayHello('Petr');
+// Problem.js
+let sayHello = person.sayHello;
 
+// #####
 // Some library - GoJS, jQuery
 let library = {
   name: 'jQuery',
-  libraryMethod: function (c) {
+  libraryMethod: function () {
     console.log('Doing library stuff');
     // callback
-    c();
+    this.librarySayHello()
   },
-  librarySayHello: person.sayHello
+  librarySayHello: sayHello
 };
 
-library.librarySayHello('Adam');
-library.libraryMethod(library.librarySayHello);
+library.libraryMethod();
 
